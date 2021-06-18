@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Todo-List-App/static/css/main.86d83f01.chunk.css",
+    "main.js": "/Todo-List-App/static/js/main.9ffe6ebc.chunk.js",
+    "main.js.map": "/Todo-List-App/static/js/main.9ffe6ebc.chunk.js.map",
+    "runtime-main.js": "/Todo-List-App/static/js/runtime-main.f6a9bcc3.js",
+    "runtime-main.js.map": "/Todo-List-App/static/js/runtime-main.f6a9bcc3.js.map",
+    "static/css/2.c3a70915.chunk.css": "/Todo-List-App/static/css/2.c3a70915.chunk.css",
+    "static/js/2.45697655.chunk.js": "/Todo-List-App/static/js/2.45697655.chunk.js",
+    "static/js/2.45697655.chunk.js.map": "/Todo-List-App/static/js/2.45697655.chunk.js.map",
+    "static/js/3.f6dc53e3.chunk.js": "/Todo-List-App/static/js/3.f6dc53e3.chunk.js",
+    "static/js/3.f6dc53e3.chunk.js.map": "/Todo-List-App/static/js/3.f6dc53e3.chunk.js.map",
+    "index.html": "/Todo-List-App/index.html",
+    "static/css/2.c3a70915.chunk.css.map": "/Todo-List-App/static/css/2.c3a70915.chunk.css.map",
+    "static/css/main.86d83f01.chunk.css.map": "/Todo-List-App/static/css/main.86d83f01.chunk.css.map",
+    "static/js/2.45697655.chunk.js.LICENSE.txt": "/Todo-List-App/static/js/2.45697655.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Todo-List-App/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a9bcc3.js",
+    "static/css/2.c3a70915.chunk.css",
+    "static/js/2.45697655.chunk.js",
+    "static/css/main.86d83f01.chunk.css",
+    "static/js/main.9ffe6ebc.chunk.js"
+  ]
+}
